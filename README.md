@@ -51,7 +51,7 @@ ueditor.config={"imageActionName":"uploadimage","imageFieldName":"upfile","image
 ueditor.access-key=8nU0zA9aTvfHBZs0fPZZWd8gpnFRtOkOPkiTB6M0
 ueditor.secret-key=400iGAeaeJyjgSm26-wT8R-HQYZbBR1el_cDiRIq
 ueditor.bucket=zrk-test
-#域名，可使用请你提供的域名，或自己绑定的域名
+#域名，可使用七牛提供的域名，或自己绑定的域名
 ueditor.base-url=http://od710rrnd.bkt.clouddn.com
 #文件上传到七牛的目录，默认为‘ueditor/file/’，请使用‘/’结尾
 ueditor.upload-dir-prefix=biz/img/
